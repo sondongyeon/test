@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	int j =10;
 	
 	System.out.println(i==j?"같다":"다르다");
-	
+	//ewrfuikewryuirewik
 	
 	
 	
